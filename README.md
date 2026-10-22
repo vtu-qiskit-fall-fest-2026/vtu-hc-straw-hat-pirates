@@ -427,11 +427,11 @@ KJ Somaiya College of Engineering, India.
 ## Submission checklist
 
 - [x] Repository created and **public**
-- [ ] All team members added as **collaborators** and invitations accepted
+- [x] All team members added as **collaborators** and invitations accepted
 - [x] README with project details, problem statement and solution
 - [x] Team members listed
 - [x] `requirements.txt` committed and the project runs from a clean clone
-- [ ] Code merged to `main` and the latest `main` builds successfully
+- [x] Code merged to `main` and the latest `main` builds successfully
 - [x] No notebooks (nothing to clear)
 - [x] Demo video and screenshots in the README
 - [ ] Short project summary submitted on the hackathon portal
